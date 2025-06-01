@@ -151,8 +151,8 @@ const Todos = (props) => {
             );
           })}
         </div>
-        <div className="font-medium text-xs flex items-end mb-6 xl:mb-3 text-black">
-          Tanishq lather
+        <div className="w-full h-10 font-medium text-xs flex items-center text-white bg-gradient-to-r from-violet-950 to-[#2D336B] justify-center sm:rounded-b-3xl shadow-md hover:shadow-lg">
+          <p>Tanishq lather</p>
         </div>
       </div>
     </>
